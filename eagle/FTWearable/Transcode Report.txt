@@ -1,0 +1,91 @@
+
+
+   ---- Transcoding 'C:\Users\HJ-Razer\AppData\Local\Temp\FTWearable_2020-10-30_importZIP\copper_top.gbr' ----   Fri Oct 30 22:14:10 2020
+
+D12   --> D100
+D13   --> D101
+D14   --> D102
+D15   --> D103
+D16   --> D104
+D17   --> D105
+D18   --> D106
+D19   --> D107
+D20   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\HJ-Razer\AppData\Local\Temp\FTWearable_2020-10-30_importZIP\profile.gbr' ----   Fri Oct 30 22:14:10 2020
+
+D10   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\HJ-Razer\AppData\Local\Temp\FTWearable_2020-10-30_importZIP\silkscreen_bottom.gbr' ----   Fri Oct 30 22:14:10 2020
+
+D10   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\HJ-Razer\AppData\Local\Temp\FTWearable_2020-10-30_importZIP\silkscreen_top.gbr' ----   Fri Oct 30 22:14:10 2020
+
+D10   --> D111
+D11   --> D112
+D12   --> D113
+D13   --> D114
+D14   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\HJ-Razer\AppData\Local\Temp\FTWearable_2020-10-30_importZIP\soldermask_bottom.gbr' ----   Fri Oct 30 22:14:10 2020
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+D17   --> D123
+D18   --> D124
+D19   --> D125
+D20   --> D126
+D21   --> D127
+D22   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\HJ-Razer\AppData\Local\Temp\FTWearable_2020-10-30_importZIP\soldermask_top.gbr' ----   Fri Oct 30 22:14:10 2020
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+D17   --> D136
+D18   --> D137
+D19   --> D138
+D20   --> D139
+D21   --> D140
+D22   --> D141
+D23   --> D142
+D24   --> D143
+D25   --> D144
+D26   --> D145
+D27   --> D146
+D28   --> D147
+D29   --> D148
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\HJ-Razer\AppData\Local\Temp\FTWearable_2020-10-30_importZIP\solderpaste_top.gbr' ----   Fri Oct 30 22:14:10 2020
+
+D10   --> D149
+D11   --> D150
+D12   --> D151
+D13   --> D152
+D14   --> D153
+D15   --> D154
+D16   --> D155
+-----------------------------------------------------------------
